@@ -5,7 +5,7 @@
 * on how to write the main function and three of these four functions
 *
 *
-* Author: Steve Ubert
+* Author: "Name Goes Here!"
 * Version: 1/24/2021
 */
 
