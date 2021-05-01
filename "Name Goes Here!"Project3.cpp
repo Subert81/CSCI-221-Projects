@@ -10,7 +10,7 @@
  * This time, uncomment the code in main function that tests test 2. And so on. 
  * The program will tell you what is your grade for this program.
  *
- * Author: Steven Ubert
+ * Author: "Name Goes Here!"
  * Version: 2/25/2021
  */
 
