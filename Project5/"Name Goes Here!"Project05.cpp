@@ -3,7 +3,7 @@ Write an implementation file to implement the namespace declared in the attached
 Name the implementation file as YourNameProj5.cpp and add it to the project.  
 Run the project to see your grade.
 
-Author: Steven Ubert
+Author: "Name Goes Here!"
 Version: 3/18/2021
 */
 
