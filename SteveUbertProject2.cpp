@@ -2,7 +2,7 @@
  * Programming Project 1 on page 611 to get some idea. Then try to finish
  * independently by complete this sample file.
  *
- * Author: Steve Ubert
+ * Author: "Name Goes Here!"
  * Version: 2/3/2021
  */
 
