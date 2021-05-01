@@ -1,8 +1,19 @@
-/*create a database of books that are stored using a vector.Keep track of the author, title, and publication date of each book.Your program should have a main menu that allows the user to select from the following : (1) Add a book’s author, title, and date; (2) Print an alphabetical list of the books sorted by author; and (3) Quit.
+/*create a database of books that are stored using a vector.
+Keep track of the author, title, and publication date of each book.
+Your program should have a main menu that allows the user to select from the following :
+(1) Add a bookâ€™s author, title, and date; 
+(2) Print an alphabetical list of the books sorted by author; and 
+(3) Quit.
 
-Must use a class to hold the data for each book.This class must hold three string fields : one to hold the author’s name, one for the publication date, and another to hold the book’s title.Store the entire database of books in a vector in which each vector element is a book class object.
+Must use a class to hold the data for each book.This class must hold three string fields :
+one to hold the authorâ€™s name, one for the publication date, and another to hold the bookâ€™s title.
+Store the entire database of books in a vector in which each vector element is a book class object.
 
-To sort the data, use the generic sort function from the library.Note that this requires you to define the < operator to compare two objects of type Book so that the author field from the two books are compared.A sample of the input / output behavior might look as follows.Your I / O need not look identical, this is just to give an idea of the functionality.Comment the codeand your functions.
+To sort the data, use the generic sort function from the library.
+Note that this requires you to define the < operator to compare two objects of type Book so that the author field 
+from the two books are compared.
+A sample of the input / output behavior might look as follows.Your I / O need not look identical, 
+this is just to give an idea of the functionality.Comment the codeand your functions.
 
     Select from the following choices :
 
@@ -13,7 +24,7 @@ To sort the data, use the generic sort function from the library.Note that this 
 3. Quit
 
 
-Author: Steven Ubert
+Author: "Name Goes Here!"
 Version: 4/25/2021
 
 
