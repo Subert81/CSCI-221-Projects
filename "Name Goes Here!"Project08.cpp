@@ -14,10 +14,10 @@ The caller of this function is responsible for deallocating the memory
 Test your class by creating different sets of different data types 
 (for example, strings, integers, or other classes). 
 If you add objects to your set, then you may need to overload 
-the == and != operators for the object’s class s your template-based 
+the == and != operators for the objectâ€™s class s your template-based 
 set class can properly determine membership
 
-Author: Steven Ubert
+Author: "Name Goes Here!"
 Version: 4/20/2021
 
 
