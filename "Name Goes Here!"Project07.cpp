@@ -28,7 +28,7 @@
 * You will define an exception class called TimFormatMistake. If the user enters and illegal time, like 10:65 or even gibberish like 8&*68, then your program will throw and catch a TimeFormatMistake
 
 *
-* Author Steven Ubert
+* Author "Name Goes Here!"
 * Version: 4/11/2021
 * Programming Project #1 on page 923
 */
