@@ -14,7 +14,7 @@
 * returns 10% of $100.10; that is, it returns a value of type Money that represents the amount $10.01.
 *
 *
-* Author: Steven Ubert
+* Author: "Name Goes Here!"
 * Version: 3/7/2021
 */
 
